@@ -1,0 +1,16 @@
+fastapi
+aiogram>=3.0.0
+sqlalchemy>=2.0.0
+alembic
+Pillow
+python-jose[cryptography]
+apscheduler
+pydantic
+pydantic-settings
+pytest
+pytest-asyncio
+uvicorn
+jinja2
+python-bidi
+arabic-reshaper
+aiosqlite

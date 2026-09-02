@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+hushly.db
+.env
+assets/temp_image_*.png
